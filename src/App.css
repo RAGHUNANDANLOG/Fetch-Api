@@ -58,3 +58,11 @@ h2{
 .number3{
   font-weight: 500;
 }
+
+.loadingDiv{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 700px;
+}
